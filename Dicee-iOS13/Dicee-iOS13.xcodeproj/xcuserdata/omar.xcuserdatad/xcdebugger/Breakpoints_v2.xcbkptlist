@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0240C0B3-3D31-4C07-86FB-76054F3BCBD6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C785B329-F440-46F0-B73B-97AC3FEC4892"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dicee-iOS13/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CA5CDF04-FA4F-4F8C-AC8D-05965704F1CC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dicee-iOS13/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "CA5CDF04-FA4F-4F8C-AC8D-05965704F1CC - 83039d2af5b04364"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dicee_iOS13.AppDelegate.__deallocating_deinit"
+                  moduleName = "Dicee-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/omar/Docs/Classes/EXTRA%20/Swift/Projects/Dicee-iOS13/Dicee-iOS13/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "CA5CDF04-FA4F-4F8C-AC8D-05965704F1CC - d8030cc10e5905c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dicee_iOS13.AppDelegate.__allocating_init() -&gt; Dicee_iOS13.AppDelegate"
+                  moduleName = "Dicee-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/omar/Docs/Classes/EXTRA%20/Swift/Projects/Dicee-iOS13/Dicee-iOS13/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "CA5CDF04-FA4F-4F8C-AC8D-05965704F1CC - 5ecda0437e50072d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dicee_iOS13.AppDelegate.init() -&gt; Dicee_iOS13.AppDelegate"
+                  moduleName = "Dicee-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/omar/Docs/Classes/EXTRA%20/Swift/Projects/Dicee-iOS13/Dicee-iOS13/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "93">
+               </Location>
+               <Location
+                  uuid = "CA5CDF04-FA4F-4F8C-AC8D-05965704F1CC - bbbabc0ee49d472f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Dicee-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/omar/Docs/Classes/EXTRA%20/Swift/Projects/Dicee-iOS13/Dicee-iOS13/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "15">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E0420761-E263-4C9F-8A93-89C352E416E9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dicee-iOS13/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
